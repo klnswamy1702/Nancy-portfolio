@@ -49,7 +49,7 @@ const bentoItems: BentoItem[] = [
 
         <div className="flex flex-col gap-5 mt-5">
           <Link
-            href="https://github.com/MayankUghade"
+            href="https://github.com/nancygupta2606/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2"

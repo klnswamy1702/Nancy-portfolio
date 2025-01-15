@@ -16,7 +16,7 @@ export default function Navbar() {
       <div className="flex items-center justify-between p-5 lg:container">
         <div className="flex items-center gap-5 ">
           <Link href="/">
-            <Image src="/letter-m.png" alt="Logo" width={27} height={27} />
+            <Image src="/letter-n.png" alt="Logo" width={27} height={27} />
           </Link>
           <div className="sm:flex hidden items-center gap-5">
             <Link
@@ -47,7 +47,7 @@ export default function Navbar() {
         </div>
         <div className="sm:flex hidden items-center sm:gap-5 gap-3">
           <Link
-            href="https://github.com/MayankUghade"
+            href="https://github.com/nancygupta2606/"
             target="_blank"
             rel="noopener noreferrer"
           >

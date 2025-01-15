@@ -26,7 +26,7 @@ export function Home() {
           Available for work
         </HoverBorderGradient>
         <div className="text-3xl sm:text-5xl md:text-7xl font-bold">
-          Mayank Ughade
+          Nancy Gupta
         </div>
         <div className="text-3xl sm:text-5xl md:text-7xl font-bold">
           Full-Stack Developer
